@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "2438",
+      "cityName": "Villanueva de Alcardete",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-08T19:53:54.920Z",
+      "position": {
+        "lat": 39.63953756436671,
+        "lng": -3.0322265625000004
+      },
+      "notes": ""
+    },
+    {
+      "id": "826b",
+      "cityName": "Villar de Samaniego",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-08T19:53:57.872Z",
+      "position": {
+        "lat": 41.1455697310095,
+        "lng": -6.416015625000001
+      },
+      "notes": ""
+    },
+    {
+      "id": "f5ae",
+      "cityName": "Pombal",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2025-04-08T19:53:59.797Z",
+      "position": {
+        "lat": 39.94343646197423,
+        "lng": -8.876953125000002
+      },
+      "notes": ""
+    }
+  ]
+}
